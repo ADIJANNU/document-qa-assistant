@@ -1,0 +1,63 @@
+# My Python Notes
+
+
+## Day 1 - Strings
+
+- strip() --> remove spaces
+- split() --> string to list
+- join() --> list to string
+- [::-1] --> reverse anything
+- [0] --> first item in list
+- [-1] --> last item in list
+- .title() --> capitalize everything
+- .replace() --> swap words
+
+## Conversion
+- int()       → string to number
+- str()       → number to string
+- len()       → count length
+
+## F-strings
+- f"Hello {name}"
+- f"Score: {score:.2f}" --> float with 2 values after dot(eg: 57.9786 -> 57.97)
+- f"{Name : <10}"   prints the word "Name" left-aligned in a 10-character wide space, followed by a colon and the value of the name variable.
+
+## Day 3 — Lists and Loops
+
+[] --> empty list
+list.append() --> add to end
+list.pop() --> remove last
+list[0] --> first item in list
+list[-1] --> last item in list
+len(list) --> count items
+for i in list --> loop through
+enumerate() --> loop with index
+total = 0 --> always start sum at 0
+average = total / len(list)
+remainder = %
+division = /
+
+## DAY 4 COMPLETE — June 18 2026
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Learned:
+- Dictionaries = key value pairs
+- dict["key"] to access
+- dict.items() to loop
+- List of dictionaries
+- Claude API message format
+  {"role": "user", "content": "msg"}
+
+Project: chat_history upgraded to
+         list of dictionaries
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DAY 8 COMPLETE
+━━━━━━━━━━━━━━━━━━━━
+Learned:
+- File read/write with open()
+- JSON save → json.dump()
+- JSON load → json.load()
+- os.path.exists() → check before reading
+- file_handler.py module created
+- App now has permanent memory
+- Reset/logout feature added

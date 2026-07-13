@@ -1,0 +1,52 @@
+Adithya Jannu 
+adijannu09@gmail.com | +91-6362772529| Bengaluru, India 
+
+PROFESSIONAL SUMMARY 
+Transformed raw data into actionable insights that reduced reporting time by 35% for cross-functional teams. I bring 
+2 years of experience as a Junior Data Analyst with expertise in SQL database querying, Python-driven automation, 
+and data visualization using modern BI tools. Committed to delivering clean, accurate data that solves real business 
+problems. 
+WORK EXPERIENCE  
+Green Cubes Technology                        
+Nov. 2023 - Sep. 2025 
+Junior Data Analyst                                                                         
+Bengaluru 
+• Queried and analyzed large volumes of operational data using SQL to track equipment performance, identify 
+recurring issues, and produce regular summary reports for operations and engineering teams. 
+• Built and maintained reports aswell as dashboards in Power BI and Excel that gave operations, engineering, 
+and management a clear daily view of fleet health, equipment utilisation, and key performance metrics. 
+• Used Excel extensively for data validation, cross-checking telemetry figures against expected ranges, flagging 
+anomalies, and maintaining structured logs that fed into weekly and monthly reports. 
+• Reviewed and audited metric data regularly, identified that a large portion of alerts were triggered by poorly 
+set thresholds, analyzed 30 days of baseline data in Excel to recalibrate them and reduced alert noise by around 
+80% 
+• Wrote Python scripts to automate data pulls and report generation, cutting down manual work that 
+previously took several hours a week. 
+• Maintained a shared documentation log of recurring data patterns, known issues, and resolution steps 
+something the support and engineering teams referred to regularly. 
+• Worked with non-technical stakeholders to walk them through what the data showed and what it meant for 
+operational decisions like maintenance scheduling and capacity planning. 
+PROJECT 
+Customer Churn Analysis - Personal Project                                    
+Jan. 2025 – Feb. 2026   
+• Pulled and cleaned a customer dataset using Python and SQL, handling missing values and structuring the 
+data into a format ready for analysis. 
+• Used Excel to explore the data: pivot tables, segmentation by contract type, tenure, and region and identified 
+that month to month customers churned at roughly 3× the rate of annual subscribers. 
+• Delivered a Power BI dashboard with drill-through views by region, product line, and support history so findings 
+were easy to act on. 
+CERTIFICATIONS 
+• NPTEL - Cloud Computing and Distributed Systems (IIT Kharagpur) 
+• Student Training Program on Python 3.4.3 - Spoken Tutorial Project, IIT Bombay 
+EDUCATION  
+Reva University                                                 
+Bachelor of Engineering, Computer Science and Engineering                 
+TECHNICAL SKILLS 
+Dec. 2020 – Aug. 2023  
+Bengaluru 
+• Microsoft Office:  MS Excel, MS Word, MS PowerPoint 
+• Databases:  SQL (MySQL, PostgreSQL) 
+• Visualisation and BI:  Power BI, Tableau, Microsoft Fabric 
+• Programming: Python  
+• Cloud:  AWS  
+• Other:  Windows, Linux, Git
