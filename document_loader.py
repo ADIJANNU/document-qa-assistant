@@ -10,8 +10,3 @@ def load_documnets(folder):
         documents[filename] = f.read()
   return documents
 
-docs = load_documnets("documents")
-for filename in docs:
-  print(filename)
-
-
