@@ -2,6 +2,7 @@ import os
 import time
 from dotenv import load_dotenv
 from google import genai
+from pydantic import BaseModel
 
 load_dotenv()
 
@@ -19,3 +20,4 @@ def get_ai_response(message):
       print(f"Attempt {attempt + 1} failed as {e}")
       time.sleep(10)
   return "Sorry, I couldn't get a response right now."
+
